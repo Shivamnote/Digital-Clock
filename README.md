@@ -11,3 +11,4 @@ Step 3: JavaScript Functionality
         Write JavaScript to update the time every second and display it in the HTML.
 Step 4: Testing
         Open the HTML file in your web browser to see the digital clock in action.
+![2024-03-23 (1)](https://github.com/Shivamnote/Digital-Clock/assets/145527322/43a8ed09-51de-4dea-8317-49ecc747c3b8)
